@@ -7,11 +7,15 @@ iOS App in Swift and SwiftUI created, from scratch, an iPhone application that a
 https://github.com/yanctrindade/flicker-test/assets/11860540/afdba4b9-1d64-488e-9550-e15e44f95565
 
 ## The Project
+- Languange: Swift   
+- Framework: Swift UI, Combine, URLSession   
+- Architecture: MVVM
+- Orientation: Portrait and Landscape on iPhones    
 - Grid View:   
   1. Search for one or more images on flicker API tags using comma between words
   2. Tapping a image it takes to a larger view   
 - Detail View: shows details of image from flicker API   
-- Unit testing on network layer and view model   
+- Unit testing on network layer and view model using XCTest
 - Acessiblity for voice over   
 
 ### Installation
